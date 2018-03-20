@@ -3,10 +3,13 @@
 
 Helpful lists of intel, hacking, malware, and secops resources.
 
+
+# IT Advice
 ##Good professional advice for IT people
 https://www.cio.com/article/3263732/careers-staffing/its-most-wanted-16-traits-of-indispensable-it-pros.html
 
 
+# OSCP Certification
 ##OSCP Certification
 https://www.peerlyst.com/posts/the-how-to-get-the-oscp-certification-wiki-peerlyst?utm_source=LinkedIn&utm_medium=Application_Share&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post
 
