@@ -1,10 +1,12 @@
-# SecOps-lists
+# InfoSec-lists
 
 
 Helpful lists of intel, hacking, malware, and secops resources.
 
 
 ## Build a malware sandbox
+
+https://www.malwaretech.com/2017/11/creating-a-simple-free-malware-analysis-environment.html
 
 [https://www.peerlyst.com/posts/home-lab-on-a-shoestring-dave-howe?utm_source=LinkedIn&utm_medium=Application_Share&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post](https://www.peerlyst.com/posts/home-lab-on-a-shoestring-dave-howe?utm_source=LinkedIn&utm_medium=Application_Share&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post)
 
